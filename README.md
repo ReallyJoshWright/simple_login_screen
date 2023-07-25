@@ -9,9 +9,9 @@ This program utilizes a makefile to give options to create an executable file.
 - create a database table in postgresql with simple_login_screen/config/user_account.sql file
 - create a config.ini file in simple_login_screen/config directory
 - cd simple_login_screen
-- run make to generate an executable that uses the python interpreter
-- run make clean to remove extraneous files and directories
-- run make exe to generate an actual executable
+- run "make" to generate an executable that uses the python interpreter
+- run "make clean" to remove extraneous files and directories
+- run "make exe" to generate an actual executable
 
 ## Sample config.ini
 ```
