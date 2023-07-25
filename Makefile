@@ -1,5 +1,5 @@
 TARGET = simple_login_screen
-DIRS = . src forms
+DIRS = . src forms config
 
 PY = python
 SOURCES = $(foreach D, $(DIRS), $(wildcard $(D)/*.py))

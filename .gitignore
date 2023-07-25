@@ -3,3 +3,4 @@ myenv/
 build/
 dist/
 simple_login_screen.spec
+config.ini
