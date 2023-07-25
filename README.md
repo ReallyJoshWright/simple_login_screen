@@ -4,6 +4,15 @@ This is a PyQt6 login screen that allows a to create a login that gets stored
 in a postgresql database using bcrypt to hash and salt the user's password. 
 This program utilizes a makefile to give options to create an executable file.
 
+## Login Screen
+![Login Screen](./images/login_screen.png)
+
+## Create Account Screen
+![Create Account Screen](./images/create_account.png)
+
+## Logged In Screen
+![Logged In Screen](./images/logged_in.png)
+
 ## Instructions
 - git clone directory
 - create a database table in postgresql with simple_login_screen/config/user_account.sql file

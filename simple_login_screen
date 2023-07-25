@@ -1,0 +1,3 @@
+#!/bin/sh
+
+python   src/simple_login_screen.py    
