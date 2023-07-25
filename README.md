@@ -14,12 +14,14 @@ This program utilizes a makefile to give options to create an executable file.
 - run make exe to generate an actual executable
 
 ## Sample config.ini
+```
 [postgresql]
 host = your_host
 user = your_user
 db = your_database
 pass = your_password
 port = 5432
+```
 
 ## Progress (Todo)
 - Add code to check username availability
